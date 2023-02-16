@@ -1,0 +1,27 @@
+{
+  "name": "10-oop-progam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustGritJordan/10-OOP-progam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustGritJordan/10-OOP-progam/issues"
+  },
+  "homepage": "https://github.com/JustGritJordan/10-OOP-progam#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
